@@ -1,6 +1,6 @@
 "use strict";
 
-const CACHE_NAME = "deen-pocket-pagi-petang-v5";
+const CACHE_NAME = "deen-pocket-pagi-petang-v6";
 const APP_SHELL = [
   "/",
   "/index.html",

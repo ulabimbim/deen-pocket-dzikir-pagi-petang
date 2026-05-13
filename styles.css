@@ -81,10 +81,11 @@ noscript {
 .app-mark {
   width: 44px;
   height: 44px;
-  border: 2px solid var(--border);
+  border: 0;
   border-radius: 12px;
-  box-shadow: 3px 3px 0 var(--border);
   background: var(--surface);
+  box-shadow: 0 2px 8px rgba(47, 42, 34, 0.18);
+  object-fit: cover;
 }
 
 .brand-title {
