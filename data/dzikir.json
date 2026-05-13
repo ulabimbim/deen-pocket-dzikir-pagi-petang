@@ -1,0 +1,614 @@
+[
+  {
+    "id": "ta-awudz",
+    "sessions": [
+      "pagi",
+      "petang"
+    ],
+    "morningOrder": 1,
+    "eveningOrder": 1,
+    "title": "Ta'awudz",
+    "arabic": "أَعُوْذُ بِاللَّهِ مِنَ الشَّيْطَانِ الرَّجِيْمِ",
+    "latin": "A'uudzu billaahi minasy-syaithoonir-rojiim.",
+    "translation": "Aku berlindung kepada Allah dari godaan syaitan yang terkutuk.",
+    "count": 1,
+    "type": "read",
+    "source": "Hisnul Muslim",
+    "description": "",
+    "note": "",
+    "sourceRow": 2
+  },
+  {
+    "id": "ayat-kursi",
+    "sessions": [
+      "pagi",
+      "petang"
+    ],
+    "morningOrder": 2,
+    "eveningOrder": 2,
+    "title": "Ayat Kursi",
+    "arabic": "اللَّهُ لَآ إِلَـٰهَ إِلَّا هُوَ الْحَىُّ الْقَيُّومُ ۚ لَا تَأْخُذُهُۥ سِنَةٌ وَلَا نَوْمٌ ۚ لَّهُۥ مَا فِى السَّمَاوَاتِ وَمَا فِى الْأَرْضِ ۗ مَن ذَا الَّذِى يَشْفَعُ عِندَهُۥٓ إِلَّا بِإِذْنِهِۦ ۚ يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ ۖ وَلَا يُحِيطُونَ بِشَىْءٍ مِّنْ عِلْمِهِۦٓ إِلَّا بِمَا شَآءَ ۚ وَسِعَ كُرْسِيُّهُ السَّمَاوَاتِ وَالْأَرْضَ ۖ وَلَا يَئُودُهُۥ حِفْظُهُمَا ۚ وَهُوَ الْعَلِىُّ الْعَظِيمُ ﴿٢٥٥﴾",
+    "latin": "",
+    "translation": "Allah, tidak ada sesembahan yang berhak disembah kecuali Dia Yang Hidup Kekal lagi terus-menerus mengurus (makhluk-Nya). Tidak mengantuk dan tidak tidur. Kepunyaan-Nya apa yang di langit dan di bumi. Siapakah yang dapat memberi syafa'at di sisi Allah tanpa izin-Nya? Allah mengetahui apa-apa yang di hadapan dan di belakang mereka, dan mereka tidak mengetahui apa-apa dari ilmu Allah melainkan apa yang dikehendaki-Nya. Kursi Allah meliputi langit dan bumi, dan Allah tidak merasa berat memelihara keduanya. Dan Allah Maha Tinggi lagi Maha Besar. (Al-Baqarah [2]: 255).",
+    "count": 1,
+    "type": "read",
+    "source": "Hisnul Muslim",
+    "description": "“Barangsiapa membaca kalimat ini ketika pagi hari, maka ia dijaga dari (ganguan) jin hingga sore hari. Dan barangsiapa mengucapkannya ketika sore hari, maka ia dijaga dari (ganguan) jin hingga pagi hari.” HR. Al-Hakim, 1/562. AlAlbani berpendapat hadits tersebut shahih dalam Shahih At-Targhib wat Tarhib 1/273 dan beliau menisbatkan hadits tersebut kepada An-Nasa’i dan Ath-Thabrani, beliau berkata, isnad Ath-Thabrani jayyid’.",
+    "note": "",
+    "sourceRow": 3
+  },
+  {
+    "id": "al-ikhlas",
+    "sessions": [
+      "pagi",
+      "petang"
+    ],
+    "morningOrder": 3,
+    "eveningOrder": 3,
+    "title": "Al-Ikhlas",
+    "arabic": " قُلْ هُوَ اللَّهُ أَحَدٌ ﴿١﴾ اللَّهُ الصَّمَدُ ﴿٢﴾ لَمْ يَلِدْ وَلَمْ يُولَدْ ﴿٣﴾ وَلَمْ يَكُن لَّهُۥ كُفُوًا أَحَدٌۢ ﴿٤﴾",
+    "latin": "",
+    "translation": "(1) Katakanlah: Dialah Allah Yang Maha Esa. (2) Allah adalah Ilah yang bergantung kepada-Nya segala urusan. (3) Dia tidak beranak dan tiada pula diperanakkan. (4) Dan tidak ada seorang pun yang setara dengan Dia. (Al-Ikhlas [112]: 1-4).",
+    "count": 3,
+    "type": "counter",
+    "source": "Hisnul Muslim",
+    "description": "“Barangsiapa membaca tiga surat tersebut tiga kali setiap pagi dan sore hari, maka itu (tiga surat tersebut) cukup baginya dari segala sesuatu.” HR. Abu Dawud 4/322, At-Tirmidzi 5/567 dan lihat Shahih At-Tirmidzi 3/182.",
+    "note": "",
+    "sourceRow": 4
+  },
+  {
+    "id": "al-falaq",
+    "sessions": [
+      "pagi",
+      "petang"
+    ],
+    "morningOrder": 4,
+    "eveningOrder": 4,
+    "title": "Al-Falaq",
+    "arabic": " قُلْ أَعُوذُ بِرَبِّ الْفَلَقِ ﴿١﴾ مِن شَرِّ مَا خَلَقَ ﴿٢﴾ وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ ﴿٣﴾ وَمِن شَرِّ النَّفَّاثَاتِ فِى الْعُقَدِ ﴿٤﴾ وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ ﴿٥﴾",
+    "latin": "",
+    "translation": "(1) Katakanlah: Aku berlindung kepada Rabb yang menguasai Subuh. (2) Dari kejahatan makhluk-Nya. (3) Dan dari kejahatan malam apabila telah gelap gulita. (4) Dan dari kejahatan wanita-wanita tukang sihir yang menghembus pada buhul-buhul. (5) Dan dari kejahatan orang yang dengki apabila ia dengki. (Al-Falaq [113]: 1-5).",
+    "count": 3,
+    "type": "counter",
+    "source": "Hisnul Muslim",
+    "description": "“Barangsiapa membaca tiga surat tersebut tiga kali setiap pagi dan sore hari, maka itu (tiga surat tersebut) cukup baginya dari segala sesuatu.” HR. Abu Dawud 4/322, At-Tirmidzi 5/567 dan lihat Shahih At-Tirmidzi 3/182.",
+    "note": "",
+    "sourceRow": 5
+  },
+  {
+    "id": "an-naas",
+    "sessions": [
+      "pagi",
+      "petang"
+    ],
+    "morningOrder": 5,
+    "eveningOrder": 5,
+    "title": "An-Naas",
+    "arabic": " قُلْ أَعُوذُ بِرَبِّ النَّاسِ ﴿١﴾ مَلِكِ النَّاسِ ﴿٢﴾ إِلَـٰهِ النَّاسِ ﴿٣﴾ مِن شَرِّ الْوَسْوَاسِ الْخَنَّاسِ ﴿٤﴾ الَّذِى يُوَسْوِسُ فِى صُدُورِ النَّاسِ ﴿٥﴾ مِنَ الْجِنَّةِ وَالنَّاسِ ﴿٦﴾",
+    "latin": "",
+    "translation": "(1) Katakanlah: Aku berlindung kepada Rabb manusia. (2) Raja manusia. (3) Sembahan manusia. (4) Dari kejahatan (bisikan) syaitan yang biasa bersembunyi. (5) Yang membisikkan (kejahatan) ke dalam dada manusia. (6) Dari jin dan manusia. (An-Nas [114]: 1-6).",
+    "count": 3,
+    "type": "counter",
+    "source": "Hisnul Muslim",
+    "description": "“Barangsiapa membaca tiga surat tersebut tiga kali setiap pagi dan sore hari, maka itu (tiga surat tersebut) cukup baginya dari segala sesuatu.” HR. Abu Dawud 4/322, At-Tirmidzi 5/567 dan lihat Shahih At-Tirmidzi 3/182.",
+    "note": "",
+    "sourceRow": 6
+  },
+  {
+    "id": "dzikir-memasuki-pagi-dan-memohon-kebaikan-hari-ini",
+    "sessions": [
+      "pagi"
+    ],
+    "morningOrder": 6,
+    "eveningOrder": null,
+    "title": "Dzikir Memasuki Pagi dan Memohon Kebaikan Hari Ini",
+    "arabic": "أَصْبَحْنَا وَأَصْبَحَ الْمُلْكُ لِلَّهِ، وَالْحَمْدُ لِلَّهِ، لاَ إِلَـٰهَ إِلاَّ اللَّهُ، وَحْدَهُ لاَ شَرِيْكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيْرٌ. رَبِّ أَسْأَلُكَ خَيْرَ مَا فِيْ هَـٰذَا الْيَوْمِ وَخَيْرَ مَا بَعْدَهُ، وَأَعُوْذُ بِكَ مِنْ شَرِّ مَا فِيْ هَـٰذَا الْيَوْمِ وَشَرِّ مَا بَعْدَهُ، رَبِّ أَعُوْذُ بِكَ مِنَ الْكَسَلِ وَسُوْءِ الْكِبَرِ، رَبِّ أَعُوْذُ بِكَ مِنْ عَذَابٍ فِي النَّارِ وَعَذَابٍ فِي الْقَبْرِ",
+    "latin": "Ash-bahnaa wa ash-bahal mulku lillaah, wal hamdulillaah, laa ilaaha illallaah, wahdahu laa syariika lah, lahul mulku wa lahul hamd, wa huwa 'alaa kulli syai-in qodiir. Robbi as-aluka khoiro maa fii haadzal yaumi wa khoiro maa ba'dahu, wa a'uudzu bika min syarri maa fii haadzal yaumi wa syarri maa ba'dahu, robbi a'uudzu bika minal kasali wa suu-il kibar, robbi a'uudzu bika min 'adzaabin fin-naari wa 'adzaabin fil qobr.",
+    "translation": "Kami telah memasuki waktu pagi dan kerajaan hanya milik Allah, segala puji bagi Allah. Tidak ada sesembahan yang berhak disembah kecuali Allah, Yang Maha Esa, tiada sekutu bagi-Nya. Bagi-Nya kerajaan dan bagi-Nya pujian. Dan Dia Maha Kuasa atas segala sesuatu. Hai Tuhan, aku mohon kepada-Mu kebaikan di hari ini dan kebaikan sesudahnya. Aku berlindung kepadaMu dari kejahatan hari ini dan kejahatan sesudahnya. Wahai Tuhan, aku berlindung kepadaMu dari kemalasan dan kejelekan di hari tua. Wahai Tuhan, aku berlindung kepadaMu dari siksaan di Neraka dan kubur.",
+    "count": 1,
+    "type": "read",
+    "source": "Hisnul Muslim",
+    "description": "HR. Muslim 4/2088.",
+    "note": "",
+    "sourceRow": 7
+  },
+  {
+    "id": "dzikir-pagi-hidup-dan-mati-hanya-dengan-kehendak-allah",
+    "sessions": [
+      "pagi"
+    ],
+    "morningOrder": 7,
+    "eveningOrder": null,
+    "title": "Dzikir Pagi: Hidup dan Mati Hanya dengan Kehendak Allah",
+    "arabic": "اَللَّهُمَّ بِكَ أَصْبَحْنَا، وَبِكَ أَمْسَيْنَا، وَبِكَ نَحْيَا، وَبِكَ نَمُوْتُ، وَإِلَيْكَ النُّشُوْرُ",
+    "latin": "Allaahumma bika ash-bahnaa, wa bika amsainaa, wa bika nahyaa, wa bika namuutu, wa ilaikan-nusyuur.",
+    "translation": "Ya Allah, dengan rahmat dan pertolonganMu kami memasuki waktu pagi, dan dengan rahmat dan pertolonganMu kami memasuki waktu sore. Dengan rahmat dan pertolonganMu kami hidup dan dengan kehendakMu kami mati. Dan kepadaMu kebangkitan (bagi semua makhluk).",
+    "count": 1,
+    "type": "read",
+    "source": "Hisnul Muslim",
+    "description": "HR. At-Tirmidzi 5/466, dan lihat Shahih At-Tirmidzi 3/142.",
+    "note": "",
+    "sourceRow": 8
+  },
+  {
+    "id": "sayyidul-istighfar",
+    "sessions": [
+      "pagi",
+      "petang"
+    ],
+    "morningOrder": 8,
+    "eveningOrder": 8,
+    "title": "Sayyidul Istighfar",
+    "arabic": "اَللَّهُمَّ أَنْتَ رَبِّيْ، لاَ إِلَـٰهَ إِلاَّ أَنْتَ، خَلَقْتَنِيْ، وَأَنَا عَبْدُكَ، وَأَنَا عَلَى عَهْدِكَ وَوَعْدِكَ مَا اسْتَطَعْتُ، أَعُوْذُ بِكَ مِنْ شَرِّ مَا صَنَعْتُ، أَبُوْءُ لَكَ بِنِعْمَتِكَ عَلَيَّ، وَأَبُوْءُ لَكَ بِذَنْبِيْ، فَاغْفِرْ لِيْ، فَإِنَّهُ لاَ يَغْفِرُ الذُّنُوْبَ إِلاَّ أَنْتَ",
+    "latin": "Allaahumma anta robbii, laa ilaaha illaa anta, kholaqtanii, wa anaa 'abduka, wa anaa 'alaa 'ahdika wa wa'dika mas-tatho'tu, a'uudzu bika min syarri maa shona'tu, abuu-u laka bini'matika 'alayya, wa abuu-u laka bi-dzanbii, faghfir lii, fa-innahu laa yagh-firudz-dzunuuba illaa anta.",
+    "translation": "Ya Allah, Engkau adalah Tuhanku, tidak ada sesembahan yang berhak disembah kecuali Engkau, Engkaulah yang menciptakan aku. Aku adalah hambaMu. Aku akan setia pada perjanjianku denganMu semampuku. Aku berlindung kepadaMu dari kejelekan yang kuperbuat. Aku mengakui nikmatMu kepadaku dan aku mengakui dosaku, oleh karena itu, ampunilah aku. Sesungguhnya tiada yang mengampuni dosa kecuali Engkau.",
+    "count": 1,
+    "type": "read",
+    "source": "Hisnul Muslim",
+    "description": "“Barangsiapa membacanya dengan yakin ketika sore hari, lalu ia meninggal dunia pada malam itu, maka ia masuk Surga. Dan demikian juga ketika pagi hari.” HR. Al-Bukhari 7/150.",
+    "note": "",
+    "sourceRow": 9
+  },
+  {
+    "id": "dzikir-persaksian-tauhid-di-pagi-hari",
+    "sessions": [
+      "pagi"
+    ],
+    "morningOrder": 9,
+    "eveningOrder": null,
+    "title": "Dzikir Persaksian Tauhid di Pagi Hari",
+    "arabic": "اَللَّهُمَّ إِنِّيْ أَصْبَحْتُ أُشْهِدُكَ وَأُشْهِدُ حَمَلَةَ عَرْشِكَ، وَمَلاَئِكَتَكَ وَجَمِيْعَ خَلْقِكَ، أَنَّكَ أَنْتَ اللهُ لاَ إِلَـهَ إِلاَّ أَنْتَ وَحْدَكَ لاَ شَرِيْكَ لَكَ، وَأَنَّ مُحَمَّدًا عَبْدُكَ وَرَسُوْلُكَ",
+    "latin": "Allahumma inni ash-bahtu usy-hiduka wa usy-hidu hamalata ‘arsyika wa malaa-ikatak wa jami’a kholqik, annaka antallahu laa ilaha illa anta wahdaka laa syariika lak, wa anna Muhammadan ‘abduka wa rosuuluk.",
+    "translation": "Ya Allah! Sesungguhnya aku di waktu pagi ini mempersaksikan Engkau, malaikat yang memikul arasyMu, malaikat-malaikat dan seluruh makhlukMu, bahwa sesungguhnya Engkau adalah Allah, tiada Tuhan yang berhak disembah kecuali Engkau Yang Maha Esa, tiada sekutu bagiMu dan sesungguhnya Muhammad adalah hamba dan utusan-Mu.",
+    "count": 4,
+    "type": "counter",
+    "source": "Hisnul Muslim",
+    "description": "“Barangsiapa membaca doa ini ketika pagi dan sore hari sebanyak empat kali, maka Allah akan membebaskannya dari api Neraka.” HR. Abu Dawud 4/317, AlBukhari dalam Al-Adabul Mufrad no. 1201, An-Nasai dalam kitab ‘Amalul Yaum wal Lailah no. 9 halaman 138, Ibnu Sunni no. 70, Syaikh Abdul Aziz bin Abdullah bin Baaz menyatakan, bahwa sanad hadits Abu Dawud dan An-Nasai adalah hasan, lihat juga Tuhfatul Akhyar, halaman 23.",
+    "note": "",
+    "sourceRow": 10
+  },
+  {
+    "id": "dzikir-mensyukuri-nikmat-di-pagi-hari",
+    "sessions": [
+      "pagi"
+    ],
+    "morningOrder": 10,
+    "eveningOrder": null,
+    "title": "Dzikir Mensyukuri Nikmat di Pagi Hari",
+    "arabic": "اللَّهُمَّ مَا أَصْبَحَ بِي مِنْ نِعْمَةٍ  أَوْ بِأَحَدٍ مِنْ خَلْقِكَ فَمِنْكَ وَحْدَكَ، لَا شَرِيكَ لَكَ، فَلَكَ الْحَمْدُ، وَلَكَ الشُّكْرُ",
+    "latin": "Allohumma ma ashbaha bi min ni’matin aw bi ahadin min kholqika fa minka wahdaka la syarika laka fa lakal hamdu wa lakasy syukru.",
+    "translation": "Ya Allah! Nikmat yang kuterima atau diterima oleh seseorang di antara makhlukMu di pagi ini adalah dariMu. Maha Esa Engkau, tiada sekutu bagi-Mu. BagiMu segala puji dan kepadaMu panjatan syukur (dari seluruh makhluk-Mu).",
+    "count": 1,
+    "type": "read",
+    "source": "Hisnul Muslim",
+    "description": "Barangsiapa yang membacanya di pagi hari, maka sungguh telah bersyukur pada hari itu. Barangsiapa yang membaca ini di sore hari, maka sungguh telah bersyukur pada malam itu.” HR. Abu Dawud 4/318, An-Nasai dalam kitab ‘Amalul Yaumi wal Lailah no. 7, halaman 137, Ibnu Sunni no. 41, halaman 23 Ibnu Hibban (Mawaarid) no. 2361. Abdul Aziz bin Baz menyatakan, bahwa sanad hadits tersebut hasan, lihat Tuhfatul Akhyar, halaman 24.",
+    "note": "",
+    "sourceRow": 11
+  },
+  {
+    "id": "doa-memohon-afiyah-dan-perlindungan-dari-keburukan",
+    "sessions": [
+      "pagi",
+      "petang"
+    ],
+    "morningOrder": 11,
+    "eveningOrder": 11,
+    "title": "Doa Memohon ‘Afiyah dan Perlindungan dari Keburukan",
+    "arabic": "اَللَّهُمَّ عَافِنِيْ فِيْ بَدَنِيْ، اَللَّهُمَّ عَافِنِيْ فِيْ سَمْعِيْ، اَللَّهُمَّ عَافِنِيْ فِيْ بَصَرِيْ، لاَ إِلَـٰهَ إِلاَّ أَنْتَ. اَللَّهُمَّ إِنِّي أَعُوْذُ بِكَ مِنَ الْكُفْرِ وَالْفَقْرِ، اَللَّهُمَّ إِنِّي أَعُوْذُ بِكَ مِنْ عَذَابِ الْقَبْرِ، لاَ إِلَـٰهَ إِلاَّ أَنْتَ",
+    "latin": "Allaahumma 'aafinii fii badanii, allaahumma 'aafinii fii sam'ii, allaahumma 'aafinii fii bashorii, laa ilaaha illaa anta. Allaahumma innii a'uudzu bika minal kufri wal faqr, allaahumma innii a'uudzu bika min 'adzaabil qobr, laa ilaaha illaa anta.",
+    "translation": "Ya Allah, selamatkan tubuhku (dari penyakit dan yang tidak aku inginkan). Ya Allah, selamatkan pendengaranku (dari penyakit dan maksiat atau sesuatu yang tidak aku inginkan). Ya Allah, selamatkan penglihatanku, tidak ada sesembahan yang berhak disembah kecuali Engkau. Ya Allah, sesungguhnya aku berlindung kepadaMu dari kekufuran dan kefakiran. Ya Allah, aku berlindung kepadaMu dari siksa kubur, tidak ada sesembahan yang berhak disembah kecuali Engkau.",
+    "count": 3,
+    "type": "counter",
+    "source": "Hisnul Muslim",
+    "description": "HR. Abu Dawud 4/324, Ahmad 5/42, An-Nasai dalam ‘Amalul Yaum wal Lailah no. 22, halaman 146, Ibnus Sunni no. 69. Al-Bukhari dalam Al-Adabul Mufrad. Syaikh Abdul Aziz bin Baaz menyatakan sanad hadits tersebut hasan. Lihat juga Tuhfatul Akhyar, halaman 26.",
+    "note": "",
+    "sourceRow": 12
+  },
+  {
+    "id": "dzikir-tawakal-cukuplah-allah-bagiku-potongan-ayat-dari-at-taubah-129",
+    "sessions": [
+      "pagi",
+      "petang"
+    ],
+    "morningOrder": 12,
+    "eveningOrder": 12,
+    "title": "Dzikir Tawakal: Cukuplah Allah Bagiku (Potongan Ayat dari At-Taubah 129)",
+    "arabic": "حَسْبِيَ اللهُ لا إِلَـهَ إِلاَّ هُوَ عَلَيْهِ تَوَكَّلْتُ وَهُوَ رَبُّ الْعَرْشِ الْعَظِيمِ",
+    "latin": "Hasbiyallah Laa Ilaha Illa huwa ‘alaihi tawakkaltu wa huwa Rabbul ‘Arsyil ‘Azhim",
+    "translation": "Cukuplah Allah bagiku, tiada Tuhan selain Dia. Hanya kepada-Nya aku bertawakal dan Dia adalah Tuhan yang memiliki ‘Arsy yang agung.",
+    "count": 7,
+    "type": "counter",
+    "source": "Hisnul Muslim",
+    "description": "“Barangsiapa membacanya ketika pagi dan sore hari sebanyak tujuh kali, maka Allah akan mencukupkan baginya dari perkara dunia dan akhirat yang menjadi perhatiannya.” H.R. Ibnus Sunni no. 71 secara marfu’ dan Abu Dawud secara mauquf 4/321. Syu’aib dan Abdul Qadir Al-Arnauth berpendapat, isnad hadits tersebut shahih. Lihat Zaadul Ma’ad 2/376.",
+    "note": "",
+    "sourceRow": 13
+  },
+  {
+    "id": "doa-memohon-ampunan-afiyah-dan-penjagaan-dari-segala-arah",
+    "sessions": [
+      "pagi",
+      "petang"
+    ],
+    "morningOrder": 13,
+    "eveningOrder": 13,
+    "title": "Doa Memohon Ampunan, ‘Afiyah, dan Penjagaan dari Segala Arah",
+    "arabic": "اَللَّهُمَّ إِنِّي أَسْأَلُكَ الْعَفْوَ وَالْعَافِيَةَ فِي الدُّنْيَا وَالْآخِرَةِ، اَللَّهُمَّ إِنِّي أَسْأَلُكَ الْعَفْوَ وَالْعَافِيَةَ فِي دِينِي وَدُنْيَايَ وَأَهْلِي وَمَالِي، اَللَّهُمَّ اسْتُرْ عَوْرَاتِي، وَآمِنْ رَوْعَاتِي، اَللَّهُمَّ احْفَظْنِي مِنْ بَيْنِ يَدَيَّ، وَمِنْ خَلْفِي، وَعَنْ يَمِينِي، وَعَنْ شِمَالِي، وَمِنْ فَوْقِي، وَأَعُوذُ بِعَظَمَتِكَ أَنْ أُغْتَالَ مِنْ تَحْتِي",
+    "latin": "Allaahumma innii as-alukal 'afwa wal 'aafiyata fid-dunyaa wal aakhiroh, allaahumma innii as-alukal 'afwa wal 'aafiyata fii dinii, wa dunyaaya, wa ahlii, wa maalii, allaahummas-tur 'aurootii, wa aamin rou'aatii, allaahummah-fazhnii min baini yadayya, wa min kholfii, wa 'an yamiinii, wa 'an syimaalii, wa min fauqii, wa a'uudzu bi'azhomatika an ugh-taala min tahtii.",
+    "translation": "Ya Allah, sesungguhnya aku memohon maaf (ampunan) dan keselamatan di dunia dan akhirat. Ya Allah, sesungguhnya aku memohon maaf (ampunan) dan keselamatan dalam agama, dunia, keluarga dan hartaku. Ya Allah, tutupilah auratku (aurat badan, cacat, aib dan sesuatu yang tidak layak dilihat orang) dan tenteramkanlah aku dari rasa takut. Ya Allah, peliharalah aku dari muka, belakang, kanan, kiri dan atasku. Aku berlindung dengan kebesaranMu, agar aku tidak disambar dari bawahku (oleh ulat, tenggelam atau ditelan bumi dan lain-lain).",
+    "count": 1,
+    "type": "read",
+    "source": "Hisnul Muslim",
+    "description": "HR. Abu Dawud dan Ibnu Majah, lihat Shahih Ibnu Majah 2/332.",
+    "note": "",
+    "sourceRow": 14
+  },
+  {
+    "id": "doa-perlindungan-dari-syirik-dan-kejahatan-diri",
+    "sessions": [
+      "pagi",
+      "petang"
+    ],
+    "morningOrder": 14,
+    "eveningOrder": 14,
+    "title": "Doa Perlindungan dari Syirik dan Kejahatan Diri",
+    "arabic": "اَللَّهُمَّ عَالِمَ الْغَيْبِ وَالشَّهَادَةِ، فَاطِرَ السَّمَاوَاتِ وَاْلأَرْضِ، رَبَّ كُلِّ شَيْءٍ وَمَلِيْكَهُ، أَشْهَدُ أَنْ لاَ إِلَـٰهَ إِلاَّ أَنْتَ، أَعُوْذُ بِكَ مِنْ شَرِّ نَفْسِيْ، وَمِنْ شَرِّ الشَّيْطَانِ وَشِرْكِهِ، وَأَنْ أَقْتَرِفَ عَلَى نَفْسِيْ سُوْءًا، أَوْ أَجُرَّهُ إِلَى مُسْلِمٍ",
+    "latin": "Allaahumma 'aalimal ghoibi wasy-syahaadati, faathiros-samaawaati wal ardh, robba kulli syai-in wa maliikahu, asyhadu al-laa ilaaha illaa anta, a'uudzu bika min syarri nafsii, wa min syarrisy-syaithooni wa syirkih, wa an aqtarifa 'alaa nafsii suu-an, au ajurrohu ilaa muslim.",
+    "translation": "Ya Allah, yang Maha Mengetahui yang ghaib dan yang nyata, wahai Tuhan pencipta langit dan bumi, Tuhan segala sesuatu dan yang merajainya. Aku bersaksi bahwa tidak ada sesembahan yang berhak disembah kecuali Engkau. Aku berlindung kepadaMu dari kejahatan diriku, setan dan balatentaranya, dan aku (berlindung kepadaMu) dari berbuat kejelekan terhadap diriku atau mendorongnya kepada seorang muslim.",
+    "count": 1,
+    "type": "read",
+    "source": "Hisnul Muslim",
+    "description": "HR. At-Tirmidzi dan Abu Dawud. Lihat kitab Shahih At-Tirmidzi 3/142.",
+    "note": "",
+    "sourceRow": 15
+  },
+  {
+    "id": "doa-perlindungan-dari-segala-bahaya",
+    "sessions": [
+      "pagi",
+      "petang"
+    ],
+    "morningOrder": 15,
+    "eveningOrder": 15,
+    "title": "Doa Perlindungan dari Segala Bahaya",
+    "arabic": "بِسْمِ اللَّهِ الَّذِي لاَ يَضُرُّ مَعَ اسْمِهِ شَيْءٌ فِي اْلأَرْضِ وَلاَ فِي السَّمَاءِ، وَهُوَ السَّمِيْعُ الْعَلِيْمُ",
+    "latin": "Bismillaahil-ladzii laa yadhurru ma'as-mihi syai-un, fil ardhi wa laa fis-samaa', wa huwas-samii'ul 'aliim.",
+    "translation": "Dengan nama Allah, yang tidak akan berbahaya dengan namaNya, segala sesuatu di bumi dan langit, Dia-lah Yang Maha Mendengar lagi Maha Mengetahui.",
+    "count": 3,
+    "type": "counter",
+    "source": "Hisnul Muslim",
+    "description": "“Barangsiapa membacanya sebanyak tiga kali ketika pagi dan sore hari, maka tidak ada sesuatu pun yang membahayakan dirinya.” HR. Abu Dawud 4/323, AtTirmidzi 5/465, Ibnu Majah dan Ahmad. Lihat Shahih Ibnu Majah 2/332, AlAllamah Ibnu Baaz berpendapat, isnad hadits tersebut hasan dalam Tuhfatul Akhyar hal. 39.",
+    "note": "",
+    "sourceRow": 16
+  },
+  {
+    "id": "dzikir-ridha-kepada-allah-islam-dan-rasulullah",
+    "sessions": [
+      "pagi",
+      "petang"
+    ],
+    "morningOrder": 16,
+    "eveningOrder": 16,
+    "title": "Dzikir Ridha kepada Allah, Islam, dan Rasulullah ﷺ",
+    "arabic": "رَضِيْتُ بِاللَّهِ رَبًّا، وَبِاْلإِسْلاَمِ دِيْنًا، وَبِمُحَمَّدٍ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ نَبِيًّا",
+    "latin": "Rodhiitu billaahi robbaa, wa bil islaami diinaa, wa bimuhammadin shollallaahu 'alaihi wa sallama nabiyyaa.",
+    "translation": "Aku rela Allah sebagai Tuhanku, Islam sebagai agamaku dan Muhammad shallallahu 'alaihi wa sallam sebagai nabiku (yang diutus oleh Allah).",
+    "count": 3,
+    "type": "counter",
+    "source": "Hisnul Muslim",
+    "description": "“Barangsiapa membacanya sebanyak tiga kali ketika pagi dan sore hari, maka hak Allah memberikan keridhaanNya kepadanya pada hari Kiamat.” HR. Ahmad 4/337, An-Nasa’i dalam ‘Amalul Yaum wal Lailah no. 4 dan Ibnus Sunni no. 68. Abu Daud 4/418, At-Tirmidzi 5/465 dan Ibnu Baaz berpendapat, hadits tersebut hasan dalam Tuhfatul Akhyar, hal. 39.",
+    "note": "",
+    "sourceRow": 17
+  },
+  {
+    "id": "doa-bersandar-kepada-allah-dalam-semua-urusan",
+    "sessions": [
+      "pagi",
+      "petang"
+    ],
+    "morningOrder": 17,
+    "eveningOrder": 17,
+    "title": "Doa Bersandar kepada Allah dalam Semua Urusan",
+    "arabic": "يَا حَيُّ يَا قَيُّوْمُ بِرَحْمَتِكَ أَسْتَغِيْثُ، أَصْلِحْ لِيْ شَأْنِيْ كُلَّهُ، وَلاَ تَكِلْنِيْ إِلَى نَفْسِيْ طَرْفَةَ عَيْنٍ",
+    "latin": "Yaa hayyu yaa qoyyuum, birohmatika astaghiits, ashlih lii sya'nii kullah, wa laa takilnii ilaa nafsii thorfata 'ain.",
+    "translation": "Wahai Tuhan Yang Maha Hidup, wahai Tuhan Yang Berdiri Sendiri (tidak butuh segala sesuatu), dengan rahmat-Mu aku minta pertolongan, perbaikilah segala urusanku, dan jangan Kau serahkan kepadaku meskipun sekejap mata (tanpa mendapat pertolongan dariMu).",
+    "count": 1,
+    "type": "read",
+    "source": "Hisnul Muslim",
+    "description": "HR. Al-Hakim, menurut pendapatnya, hadits tersebut adalah shahih, dan Imam Adz-Dzahabi me-nyetujuinya, lihat kitabnya 1/545, dan Shahih At-Targhib wat Tarhib 1/273.",
+    "note": "",
+    "sourceRow": 18
+  },
+  {
+    "id": "dzikir-pagi-memohon-kebaikan-hari-ini",
+    "sessions": [
+      "pagi"
+    ],
+    "morningOrder": 18,
+    "eveningOrder": null,
+    "title": "Dzikir Pagi: Memohon Kebaikan Hari Ini",
+    "arabic": "أَصْبَحْنَا وَأَصْبَحَ الْمُلْكُ لِلَّهِ رَبِّ الْعَالَمِينَ، اللَّهُمَّ إِنِّي أَسْأَلُكَ خَيْرَ هَذَا الْيَوْمِ: فَتْحَهُ، وَنَصْرَهُ، وَنُورَهُ، وَبَرَكَتَهُ، وَهُدَاهُ، وَأَعُوذُ بِكَ مِنْ شَرِّ مَا فِيهِ وَشَرِّ مَا بَعْدَهُ.",
+    "latin": "Ashbahnaa wa ashbahal mulku lillaahi Rabbil ‘aalamiin. Allaahumma innii as-aluka khaira haadzal yaum: fathahu, wa nashrahu, wa nuurahu, wa barakatahu, wa hudaahu. Wa a’uudzu bika min syarri maa fiihi wa syarri maa ba’dahu.",
+    "translation": "Kami memasuki waktu pagi, dan kerajaan hanya milik Allah, Tuhan seluruh alam. Ya Allah, sesungguhnya aku memohon kepada-Mu kebaikan hari ini: pembukanya, pertolongannya, cahayanya, keberkahannya, dan petunjuknya. Aku berlindung kepada-Mu dari keburukan yang ada di dalamnya dan keburukan yang datang setelahnya.",
+    "count": 1,
+    "type": "read",
+    "source": "Hisnul Muslim",
+    "description": "HR. Abu Dawud 4/322 serta Syu’ab dan Abdul Qadir Al-Arnauth dalam Tahqiq Zadul Ma’ad, 2/273.",
+    "note": "",
+    "sourceRow": 19
+  },
+  {
+    "id": "dzikir-pagi-dzikir-meneguhkan-fitrah-islam-dan-tauhid",
+    "sessions": [
+      "pagi"
+    ],
+    "morningOrder": 19,
+    "eveningOrder": null,
+    "title": "Dzikir Pagi: Dzikir Meneguhkan Fitrah Islam dan Tauhid",
+    "arabic": "أَصْبَحْنَا عَلَى فِطْرَةِ اْلإِسْلاَمِ، وَعَلَى كَلِمَةِ اْلإِخْلاَصِ، وَعَلَى دِيْنِ نَبِيِّنَا مُحَمَّدٍ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ، وَعَلَى مِلَّةِ أَبِيْنَا إِبْرَاهِيْمَ، حَنِيْفًا مُسْلِمًا وَمَا كَانَ مِنَ الْمُشْرِكِيْنَ",
+    "latin": "Ash-bahnaa 'alaa fithrotil islaam, wa 'alaa kalimatil ikhlaash, wa 'alaa diini nabiyyinaa muhammadin shollallaahu 'alaihi wa sallam, wa 'alaa millati abiinaa ibroohiim, haniifan musliman wa maa kaana minal musyrikiin.",
+    "translation": "Di waktu pagi kami berada di atas fitrah Islam, kalimat ikhlas, agama Nabi kami Muhammad, dan agama ayah kami Ibrahim, yang berdiri di atas jalan yang lurus, muslim dan tidak tergolong orang-orang musyrik.",
+    "count": 1,
+    "type": "read",
+    "source": "Hisnul Muslim",
+    "description": "HR. Ahmad 3/406-407, 5/123. Lihat juga Shahihul Jami’ 4/290. Ibnus Sunni juga meriwayatkannya di ‘Amalul Yaum wal Lailah no. 34.",
+    "note": "",
+    "sourceRow": 20
+  },
+  {
+    "id": "dzikir-tauhid-tiada-sesembahan-selain-allah",
+    "sessions": [
+      "pagi",
+      "petang"
+    ],
+    "morningOrder": 20,
+    "eveningOrder": 20,
+    "title": "Dzikir Tauhid: Tiada Sesembahan Selain Allah",
+    "arabic": "لَا إِلَـٰهَ إِلَّا اللَّهُ، وَحْدَهُ لَا شَرِيْكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ، وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيْرٌ",
+    "latin": "Laa ilaaha illallaah, wahdahu laa syariika lah, lahul mulku wa lahul hamdu, wa huwa 'alaa kulli syai-in qodiir.",
+    "translation": "Tidak ada sesembahan yang berhak disembah kecuali Allah, Yang Maha Esa, tiada sekutu bagi-Nya. Bagi-Nya kerajaan dan bagi-Nya pujian. Dan Dia Maha Kuasa atas segala sesuatu.  (Dibaca sepuluh kali, atau cukup sekali dalam keadaan malas).",
+    "count": 10,
+    "type": "counter",
+    "source": "Hisnul Muslim",
+    "description": "HR. Abu Dawud 4/319, Ibnu Majah dan Ahmad 4/60. Lihat Shahih At-Targhib wat Tarhib 1/270, Shahih Abu Dawud 3/957, Shahih Ibnu Majah 2/331, dan Zadul Ma’ad 2/377.",
+    "note": "",
+    "sourceRow": 21
+  },
+  {
+    "id": "dzikir-memuji-allah-sebanyak-ciptaan-nya",
+    "sessions": [
+      "pagi"
+    ],
+    "morningOrder": 21,
+    "eveningOrder": null,
+    "title": "Dzikir Memuji Allah Sebanyak Ciptaan-Nya",
+    "arabic": "سُبْحَانَ اللَّهِ وَبِحَمْدِهِ عَدَدَ خَلْقِهِ، وَرِضَا نَفْسِهِ، وَزِنَةَ عَرْشِهِ، وَمِدَادَ كَلِمَاتِهِ",
+    "latin": "Subhaanallaahi wa bihamdihi 'adada kholqih, wa ridhoo nafsih, wa zinata 'arsyih, wa midaada kalimaatih.",
+    "translation": "Maha Suci Allah, aku memuji-Nya sebanyak makhluk-Nya, sesuai keridhaan-Nya, seberat timbangan arasy-Nya dan sebanyak tinta (yang menulis) kalimat-Nya.",
+    "count": 3,
+    "type": "counter",
+    "source": "Hisnul Muslim",
+    "description": "HR. Muslim 4/2090.",
+    "note": "",
+    "sourceRow": 22
+  },
+  {
+    "id": "doa-memohon-ilmu-bermanfaat-rezeki-halal-dan-amal-yang-diterima",
+    "sessions": [
+      "pagi"
+    ],
+    "morningOrder": 22,
+    "eveningOrder": null,
+    "title": "Doa Memohon Ilmu Bermanfaat, Rezeki Halal, dan Amal yang Diterima",
+    "arabic": "اَللَّهُمَّ إِنِّيْ أَسْأَلُكَ عِلْمًا نَافِعًا، وَرِزْقًا طَيِّبًا، وَعَمَلاً مُتَقَبَّلاً",
+    "latin": "Allaahumma innii as-aluka 'ilman naafi'an, wa rizqon thoyyiban, wa 'amalan mutaqobbalan.",
+    "translation": "Ya Allah, sesungguhnya aku memohon kepadaMu ilmu yang bermanfaat, rizki yang halal dan amal yang diterima.",
+    "count": 1,
+    "type": "read",
+    "source": "Hisnul Muslim",
+    "description": "HR. Ibnu As-Sunni dalam ‘Amalul Yaum wal Lailah, no. 54, dan Ibnu Majah no. 925. Isnadnya hasan menurut Abdul Qadir dan Syu’aib Al-Arna’uth dalam tahqiq Zad Al-Ma’ad 2/375.",
+    "note": "",
+    "sourceRow": 23
+  },
+  {
+    "id": "dzikir-tasbih-dan-pujian-kepada-allah",
+    "sessions": [
+      "pagi",
+      "petang"
+    ],
+    "morningOrder": 23,
+    "eveningOrder": 22,
+    "title": "Dzikir Tasbih dan Pujian kepada Allah",
+    "arabic": "سُبْحَانَ اللَّهِ وَبِحَمْدِهِ",
+    "latin": "Subhaanallaahi wa bihamdih.",
+    "translation": "Maha Suci Allah, aku memujiNya.",
+    "count": 100,
+    "type": "counter",
+    "source": "Hisnul Muslim",
+    "description": "HR. Muslim 4/2071.",
+    "note": "",
+    "sourceRow": 24
+  },
+  {
+    "id": "istighfar-100x-dalam-sehari",
+    "sessions": [
+      "pagi",
+      "petang"
+    ],
+    "morningOrder": 24,
+    "eveningOrder": 23,
+    "title": "Istighfar (100x dalam sehari)",
+    "arabic": "أَسْتَغْفِرُ اللَّهَ وَأَتُوْبُ إِلَيْهِ",
+    "latin": "Astaghfirullaaha wa atuubu ilaih.",
+    "translation": "Aku memohon ampun kepada Allah dan bertaubat kepadaNya.",
+    "count": 100,
+    "type": "counter",
+    "source": "Hisnul Muslim",
+    "description": "HR. Al-Bukhari dengan Fathul Bari 11/101, dan Muslim 4/2075.",
+    "note": "",
+    "sourceRow": 25
+  },
+  {
+    "id": "dzikir-tauhid-tiada-sesembahan-selain-allah-100x-dalam-sehari",
+    "sessions": [
+      "pagi",
+      "petang"
+    ],
+    "morningOrder": 25,
+    "eveningOrder": 24,
+    "title": "Dzikir Tauhid: Tiada Sesembahan Selain Allah (100x dalam sehari)",
+    "arabic": "لَا إِلَـٰهَ إِلَّا اللَّهُ، وَحْدَهُ لَا شَرِيْكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ، وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيْرٌ",
+    "latin": "Laa ilaaha illallaah, wahdahu laa syariika lah, lahul mulku wa lahul hamdu, wa huwa 'alaa kulli syai-in qodiir.",
+    "translation": "Tidak ada sesembahan yang berhak disembah kecuali Allah, Yang Maha Esa, tiada sekutu bagi-Nya. Bagi-Nya kerajaan dan bagi-Nya pujian. Dan Dia Maha Kuasa atas segala sesuatu.",
+    "count": 100,
+    "type": "counter",
+    "source": "Hisnul Muslim",
+    "description": "“Barangsiapa membacanya sebanyak seratus kali dalam sehari, maka baginya (pahala) seperti memerdekakan sepuluh budak, ditulis seratus kebaikan, dihapus darinya seratus keburukan, baginya perlindung-an dari setan pada hari itu hingga sore hari. Tidaklah seseorang itu dapat mendatangkan yang lebih baik dari apa yang dibawanya kecuali ia melakukan lebih banyak lagi dari itu.” HR. Al-Bukhari 4/95; Muslim 4/2071.",
+    "note": "",
+    "sourceRow": 26
+  },
+  {
+    "id": "dzikir-memasuki-sore-dan-memohon-kebaikan-malam-ini",
+    "sessions": [
+      "petang"
+    ],
+    "morningOrder": null,
+    "eveningOrder": 6,
+    "title": "Dzikir Memasuki Sore dan Memohon Kebaikan Malam Ini",
+    "arabic": "أَمْسَيْنَا وَأَمْسَى الْمُلْكُ لِلَّهِ، وَالْحَمْدُ لِلَّهِ، لاَ إِلَـٰهَ إِلاَّ اللَّهُ، وَحْدَهُ لاَ شَرِيْكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ، وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيْرٌ. رَبِّ أَسْأَلُكَ خَيْرَ مَا فِيْ هَـٰذِهِ اللَّيْلَةِ وَخَيْرَ مَا بَعْدَهَا، وَأَعُوْذُ بِكَ مِنْ شَرِّ مَا فِيْ هَـٰذِهِ اللَّيْلَةِ وَشَرِّ مَا بَعْدَهَا، رَبِّ أَعُوْذُ بِكَ مِنَ الْكَسَلِ وَسُوْءِ الْكِبَرِ، رَبِّ أَعُوْذُ بِكَ مِنْ عَذَابٍ فِي النَّارِ وَعَذَابٍ فِي الْقَبْرِ",
+    "latin": "Amsainaa wa amsal mulku lillaah, wal hamdulillaah, laa ilaaha illallaah, wahdahu laa syariika lah, lahul mulku wa lahul hamd, wa huwa 'alaa kulli syai-in qodiir. Robbi as-aluka khoiro maa fii haadzihil-lailati wa khoiro maa ba'dahaa, wa a'uudzu bika min syarri maa fii haadzihil-lailati wa syarri maa ba'dahaa, robbi a'uudzu bika minal kasali wa suu-il kibar, robbi a'uudzu bika min 'adzaabin fin-naari wa 'adzaabin fil qobr.",
+    "translation": "Kami telah memasuki waktu sore dan kerajaan hanya milik Allah, segala puji bagi Allah. Tidak ada sesembahan yang berhak disembah kecuali Allah, Yang Maha Esa, tiada sekutu bagiNya. Bagi-Nya kerajaan dan bagiNya pujian. Dia-lah Yang Mahakuasa atas segala sesuatu. Hai Tuhan, aku mohon kepada-Mu kebaikan di malam ini dan kebaikan sesudahnya. Aku berlindung kepadaMu dari kejahatan malam ini dan kejahatan sesudahnya. Wahai Tuhan, aku berlindung kepadaMu dari kemalasan dan kejelekan di hari tua. Wahai Tuhan, aku berlindung kepadaMu dari siksaan di Neraka dan kubur.",
+    "count": 1,
+    "type": "read",
+    "source": "Hisnul Muslim",
+    "description": "HR. Muslim 4/2088.",
+    "note": "",
+    "sourceRow": 27
+  },
+  {
+    "id": "dzikir-petang-hidup-dan-mati-hanya-dengan-kehendak-allah",
+    "sessions": [
+      "petang"
+    ],
+    "morningOrder": null,
+    "eveningOrder": 7,
+    "title": "Dzikir Petang: Hidup dan Mati Hanya dengan Kehendak Allah",
+    "arabic": "اَللَّهُمَّ بِكَ أَمْسَيْنَا، وَبِكَ أَصْبَحْنَا، وَبِكَ نَحْيَا، وَبِكَ نَمُوْتُ، وَإِلَيْكَ الْمَصِيْرُ",
+    "latin": "Allaahumma bika amsainaa, wa bika ash-bahnaa, wa bika nahyaa, wa bika namuutu, wa ilaikal mashiir.",
+    "translation": "Ya Allah, dengan rahmat dan pertolonganMu kami memasuki waktu sore, dan dengan rahmat dan pertolonganMu kami memasuki waktu pagi. Dengan rahmat dan pertolonganMu kami hidup dan dengan kehendakMu kami mati. Dan kepadaMu tempat kembali (bagi semua makhluk).",
+    "count": 1,
+    "type": "read",
+    "source": "Hisnul Muslim",
+    "description": "HR. At-Tirmidzi 5/466, dan lihat Shahih At-Tirmidzi 3/142.",
+    "note": "",
+    "sourceRow": 28
+  },
+  {
+    "id": "dzikir-persaksian-tauhid-di-waktu-sore",
+    "sessions": [
+      "petang"
+    ],
+    "morningOrder": null,
+    "eveningOrder": 9,
+    "title": "Dzikir Persaksian Tauhid di Waktu Sore",
+    "arabic": "اَللَّهُمَّ إِنِّيْ أَمْسَيْتُ أُشْهِدُكَ وَأُشْهِدُ حَمَلَةَ عَرْشِكَ، وَمَلاَئِكَتَكَ وَجَمِيْعَ خَلْقِكَ، أَنَّكَ أَنْتَ اللهُ لاَ إِلَـهَ إِلاَّ أَنْتَ وَحْدَكَ لاَ شَرِيْكَ لَكَ، وَأَنَّ مُحَمَّدًا عَبْدُكَ وَرَسُوْلُكَ",
+    "latin": "Allahumma inni amsaytu usy-hiduka wa usy-hidu hamalata ‘arsyika wa malaa-ikatak wa jami’a kholqik, annaka antallahu laa ilaha illa anta wahdaka laa syariika lak, wa anna Muhammadan ‘abduka wa rosuuluk.",
+    "translation": "“Ya Allah, sesungguhnya aku di waktu petang ini mempersaksikan Engkau, malaikat yang memikul ‘Arys-Mu, malaikat-malaikat dan seluruh makhluk-Mu, bahwa sesungguhnya Engkau adalah Allah, tiada ilah yang berhak disembah kecuali Engkau semata, tiada sekutu bagi-Mu dan sesungguhnya Muhammad adalah hamba dan utusan-Mu.”",
+    "count": 4,
+    "type": "counter",
+    "source": "Hisnul Muslim",
+    "description": "“Barangsiapa membaca doa ini ketika pagi dan sore hari sebanyak empat kali, maka Allah akan membebaskannya dari api Neraka.” HR. Abu Dawud 4/317, AlBukhari dalam Al-Adabul Mufrad no. 1201, An-Nasai dalam kitab ‘Amalul Yaum wal Lailah no. 9 halaman 138, Ibnu Sunni no. 70, Syaikh Abdul Aziz bin Abdullah bin Baaz menyatakan, bahwa sanad hadits Abu Dawud dan An-Nasai adalah hasan, lihat juga Tuhfatul Akhyar, halaman 23.",
+    "note": "",
+    "sourceRow": 29
+  },
+  {
+    "id": "dzikir-mensyukuri-nikmat-di-sore-hari",
+    "sessions": [
+      "petang"
+    ],
+    "morningOrder": null,
+    "eveningOrder": 10,
+    "title": "Dzikir Mensyukuri Nikmat di Sore Hari",
+    "arabic": "اللَّهُمَّ مَا أَمْسَى بِي مِنْ نِعْمَةٍ أَوْ بِأَحَدٍ مِنْ خَلْقِكَ، فَمِنْكَ وَحْدَكَ لَا شَرِيكَ لَكَ، فَلَكَ الْحَمْدُ وَلَكَ الشُّكْرُ",
+    "latin": "Allahumma ma amsa bi min ni'matin aw bi ahadin min khalqika, fa minka wahdaka la syarika laka, falakal-hamdu walakash-syukru.",
+    "translation": "Ya Allah! Nikmat yang kuterima atau diterima oleh seseorang di antara makhlukMu di sore ini adalah dariMu. Maha Esa Engkau, tiada sekutu bagi-Mu. BagiMu segala puji dan kepadaMu panjatan syukur (dari seluruh makhluk-Mu).",
+    "count": 1,
+    "type": "read",
+    "source": "Hisnul Muslim",
+    "description": "Barangsiapa yang membacanya di pagi hari, maka sungguh telah bersyukur pada hari itu. Barangsiapa yang membaca ini di sore hari, maka sungguh telah bersyukur pada malam itu.” HR. Abu Dawud 4/318, An-Nasai dalam kitab ‘Amalul Yaumi wal Lailah no. 7, halaman 137, Ibnu Sunni no. 41, halaman 23 Ibnu Hibban (Mawaarid) no. 2361. Abdul Aziz bin Baz menyatakan, bahwa sanad hadits tersebut hasan, lihat Tuhfatul Akhyar, halaman 24.",
+    "note": "",
+    "sourceRow": 30
+  },
+  {
+    "id": "dzikir-petang-memohon-kebaikan-malam-ini",
+    "sessions": [
+      "petang"
+    ],
+    "morningOrder": null,
+    "eveningOrder": 18,
+    "title": "Dzikir Petang: Memohon Kebaikan Malam Ini",
+    "arabic": "أَمْسَيْنَا وَأَمْسَى الْمُلْكُ لِلَّهِ رَبِّ الْعَالَمِينَ، اللَّهُمَّ إِنِّي أَسْأَلُكَ خَيْرَ هَذِهِ اللَّيْلَةِ: فَتْحَهَا، وَنَصْرَهَا، وَنُورَهَا، وَبَرَكَتَهَا، وَهُدَاهَا، وَأَعُوذُ بِكَ مِنْ شَرِّ مَا فِيهَا وَشَرِّ مَا بَعْدَهَا",
+    "latin": "Amsainaa wa amsal mulku lillaahi Rabbil ‘aalamiin. Allaahumma innii as-aluka khaira haadzihil-lailah: fathahaa, wa nashrahaa, wa nuurahaa, wa barakatahaa, wa hudaahaa. Wa a’uudzu bika min syarri maa fiihaa wa syarri maa ba’dahaa.",
+    "translation": "Kami memasuki waktu sore, dan kerajaan hanya milik Allah, Tuhan seluruh alam. Ya Allah, sesungguhnya aku memohon kepada-Mu kebaikan malam ini: pembukanya, pertolongannya, cahayanya, keberkahannya, dan petunjuknya. Aku berlindung kepada-Mu dari keburukan yang ada di dalamnya dan keburukan yang datang setelahnya.",
+    "count": 1,
+    "type": "read",
+    "source": "Hisnul Muslim",
+    "description": "HR. Abu Dawud 4/322 serta Syu’ab dan Abdul Qadir Al-Arnauth dalam Tahqiq Zadul Ma’ad, 2/273.",
+    "note": "",
+    "sourceRow": 31
+  },
+  {
+    "id": "dzikir-petang-dzikir-meneguhkan-fitrah-islam-dan-tauhid",
+    "sessions": [
+      "petang"
+    ],
+    "morningOrder": null,
+    "eveningOrder": 19,
+    "title": "Dzikir Petang: Dzikir Meneguhkan Fitrah Islam dan Tauhid",
+    "arabic": "أَمْسَيْنَا عَلَى فِطْرَةِ اْلإِسْلاَمِ، وَعَلَى كَلِمَةِ اْلإِخْلاَصِ، وَعَلَى دِيْنِ نَبِيِّنَا مُحَمَّدٍ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ، وَعَلَى مِلَّةِ أَبِيْنَا إِبْرَاهِيْمَ، حَنِيْفًا مُسْلِمًا وَمَا كَانَ مِنَ الْمُشْرِكِيْنَ",
+    "latin": "Amsainaa 'alaa fithrotil islaam, wa 'alaa kalimatil ikhlaash, wa 'alaa diini nabiyyinaa muhammadin shollallaahu 'alaihi wa sallam, wa 'alaa millati abiinaa ibroohiim, haniifan musliman wa maa kaana minal musyrikiin.",
+    "translation": "Di waktu sore kami berada di atas fitrah Islam, kalimat ikhlas, agama Nabi kami Muhammad, dan agama ayah kami Ibrahim, yang berdiri di atas jalan yang lurus, muslim dan tidak tergolong orang-orang musyrik.",
+    "count": 1,
+    "type": "read",
+    "source": "Hisnul Muslim",
+    "description": "HR. Ahmad 3/406-407, 5/123. Lihat juga Shahihul Jami’ 4/290. Ibnus Sunni juga meriwayatkannya di ‘Amalul Yaum wal Lailah no. 34.",
+    "note": "",
+    "sourceRow": 32
+  },
+  {
+    "id": "doa-berlindung-dengan-kalimat-allah-yang-sempurna",
+    "sessions": [
+      "petang"
+    ],
+    "morningOrder": null,
+    "eveningOrder": 21,
+    "title": "Doa Berlindung dengan Kalimat Allah yang Sempurna",
+    "arabic": "أَعُوْذُ بِكَلِمَاتِ اللَّهِ التَّامَّاتِ مِنْ شَرِّ مَا خَلَقَ",
+    "latin": "A'uudzu bi kalimaatillaahit-taammaati min syarri maa khalaq.",
+    "translation": "Aku berlindung dengan kalimat-kalimat Allah yang sempurna, dari kejahatan makhluk yang diciptakanNya.",
+    "count": 3,
+    "type": "counter",
+    "source": "Hisnul Muslim",
+    "description": "“Barangsiapa membaca doa ini pada sore hari sebanyak tiga kali, tidak berbahaya baginya sengatan (binatang berbisa) pada malam itu”. HR. Ahmad 2/290, An-Nasa’i dalam ‘Amalul Yaum wal Lailah, no. 590 dan Ibnu Sunni no. 68. Lihat Shahih At-Tirmidzi 3/187, Shahih Ibnu Majah 2/266 dan Tuhfatul Akhyar, hal. 45.",
+    "note": "",
+    "sourceRow": 33
+  },
+  {
+    "id": "shalawat",
+    "sessions": [
+      "pagi",
+      "petang"
+    ],
+    "morningOrder": 26,
+    "eveningOrder": 25,
+    "title": "Shalawat",
+    "arabic": "اللَّهُمَّ صَلِّ وَسَلِّمْ عَلَى نَبِيِّنَا مُحَمَّدٍ",
+    "latin": "Allaahumma shalli wa sallim ‘alaa nabiyyinaa Muhammad.",
+    "translation": "Ya Allah, limpahkanlah shalawat dan salam kepada Nabi kami Muhammad.",
+    "count": 10,
+    "type": "counter",
+    "source": "Hisnul Muslim",
+    "description": "“Barangsiapa bershalawat untukku sepuluh kali pada pagi hari, dan sepuluh kali pada sore hari, mendapatkan syafaatku pada hari Kiamat.” HR. At-Thabrani melalui dua isnad, keduanya baik. Lihat Majma’ Az-Zawaid 10/120 dan Shahih AtTarghib wat Tarhib 1/273.",
+    "note": "",
+    "sourceRow": 34
+  }
+]
